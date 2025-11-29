@@ -27,13 +27,17 @@ Honestly I was really confused for all of this and the code may not work, but I 
 Making this was really fun but really frustrating, especially in the beginning. KiCad has such a big learning curve, especially without a guide. If I could do this again, I would definitely take a look at the hackpad resources on blueprint first (I unfortunately didn't see it when I started). However, I was able to explore on my own and learn how to design a PCB + build a mini keyboard! yay!!
 
 # BOM 
-- 1 SEEEDUINO XIAO RP2040
-- 1 EC11 Encoder
-- 8 Cherry MX switches + keycaps
-- 8 1N4148 Diodes
-- 3 SK6812 neopixel LEDs
-- PCB
-- 4 screws (same as ones on tutorial)
+- 1 SEEEDUINO XIAO RP2040: $3.99 (https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html?srsltid=AfmBOorT96zUK38616pjHdfXnMnU0o0y1qJc7lplFwdJuFrqgMMRAf41)
+- 1 EC11 Encoder $1.45 (https://tinkersphere.com/electronic-components/1326-rotary-encoder-ec11.html?srsltid=AfmBOopOo-vrdPzgLJg3iHv4EmU_9wukVdqNCnXfHaQcgdfFJyrRNw5Z5jo)
+- 8 Cherry MX switches $0.32 each, $2.56 total (https://mechanicalkeyboards.com/products/cherry-mx-speed-silver-45g-linear?variant=47607468425516)
+- 8 Cherry MX keycaps $5.95, 10 pack (https://www.adafruit.com/product/4998)
+- 8 1N4148 Diodes $0.74 each, $5.92 total (https://www.mouser.com/ProductDetail/Microchip-Technology/1N4148-1?qs=%252BRKXB2WKlSdJR%252BwP8jtUHQ%3D%3D&mgh=1&srsltid=AfmBOooron7OYLItBWxreR001qZg3yBlkAta0VMUpKXsrnzb_KWjFGqUDeA)
+- 3 SK6812 neopixel LEDs $3.95, 10 pack (https://www.adafruit.com/product/4892?srsltid=AfmBOooCAh1CvULMOHKEZYruWb9CKOdRJAxNbOx5X2afPDqtHWVynWcv)
+- PCB ~27 dollars pcbway
+- 4 screws (same as ones on tutorial) --> 4x M3x16 Bolt: 0.80 set of 10 (https://www.dfrobot.com/product-845.html?srsltid=AfmBOorcYq0fSDSSL-BlJ3uggQFwOURX8cUfa63UACWloX7z5vpRYJ0uUMs)
+
+Total: $51.62
+
 
 
 
