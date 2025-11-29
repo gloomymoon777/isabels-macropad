@@ -1,6 +1,6 @@
 // Copyright 2023 QMK
 // SPDX-License-Identifier: GPL-2.0-or-later
-// i have no idea whats going on here so i asked chatGPT T_T IM SORRY I PROMISE I KNOW HOW IT WORKS NOW
+// i dont know whats going on help me
 #include QMK_KEYBOARD_H
 
 enum custom_keycodes {
@@ -23,9 +23,13 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
     if (!leds_enabled) return false;
 
     if (clockwise) {
-        if (led_brightness < 255) led_brightness += 8;
+        if (led_brightness < 255) {
+            led_brightness += 8;
+        }
     } else {
-        if (led_brightness > 0) led_brightness -= 8;
+        if (led_brightness > 0) {
+            led_brightness -= 8;
+        }
     }
 
     set_underlighting();
@@ -56,5 +60,5 @@ const uint16_t keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     LCTL(LALT(KC_P)),    // pull
     LCTL(LALT(KC_C))     // commit
 )
-};
+}; // ngl i have no idea if this is gonna work T_T sorry in advance
 
