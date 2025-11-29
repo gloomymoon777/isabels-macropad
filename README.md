@@ -19,7 +19,7 @@ I still spent a decent amount of time on it just to make sure everything fit wit
 <img width="2656" height="1330" alt="image" src="https://github.com/user-attachments/assets/50854fd1-76d3-49bb-8287-265cde2fc676" />
 
 # Firmware
-I followed some qmk tutorials and got a bit of help from AI for this part! 
+I followed some qmk tutorials for this part! 
 Honestly I was really confused for all of this and the code may not work, but I will fix that if and/or when the project gets shipped :D
 
 
