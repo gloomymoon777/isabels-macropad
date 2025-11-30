@@ -16,7 +16,8 @@ I also wasn't sure why I couldn't get 3D images to show on my PCB design, but if
 
 This part was actually pretty straightforward, since I have used Fusion360 before! 
 I still spent a decent amount of time on it just to make sure everything fit with the PCB though.
-<img width="2656" height="1330" alt="image" src="https://github.com/user-attachments/assets/50854fd1-76d3-49bb-8287-265cde2fc676" />
+<img width="847" height="572" alt="image" src="https://github.com/user-attachments/assets/ecd6254b-73e3-4f93-af73-1bc35a5d7639" />
+
 
 # Firmware
 I followed some qmk tutorials for this part! 
